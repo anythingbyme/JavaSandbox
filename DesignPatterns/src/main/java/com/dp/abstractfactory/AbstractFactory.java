@@ -8,4 +8,6 @@ public class AbstractFactory {
      * Another example from Wikipedia:
      * DcoumentCreator creates Letter or Resume based on type
      */
+
+    public void createDevice(String deviceType) {}
 }
